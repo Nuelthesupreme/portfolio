@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+
+header h3{
+    background-color: seagreen;
+    margin: 0;
+
+}
+
+.container{
+    padding: 10px;
+}
+
+footer {
+    padding: 3px;
+    clear: both;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color:white;
+    
+}
+
+footer h2 {
+    font-size: 20px;
+}
